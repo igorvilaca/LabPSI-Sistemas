@@ -1,0 +1,373 @@
+<apps ver="43">
+    <application name="tibia1000">
+        <displayname>Tibia 10.00</displayname>
+        <webpath>https://download.otservlist.org/client/tibia1000.zip</webpath>
+        <desc>Final "classic" client, protocol 10.00..</desc>
+    </application>
+
+    <application name="tibia1099">
+        <displayname>Tibia 10.99</displayname>
+        <webpath>https://download.otservlist.org/client/tibia1099.zip</webpath>
+        <desc>Tibia client, protocol 10.99</desc>
+    </application>
+
+    <application name="tibia1096">
+        <displayname>Tibia 10.96</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1096.zip</webpath>
+        <desc>Tibia client, protocol 10.96</desc>
+    </application>
+
+    <application name="tibia1095">
+        <displayname>Tibia 10.95</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1095.zip</webpath>
+        <desc>Tibia client, protocol 10.95</desc>
+    </application>
+
+    <application name="tibia1094">
+        <displayname>Tibia 10.94</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1094.zip</webpath>
+        <desc>Tibia client, protocol 10.94</desc>
+    </application>
+
+    <application name="tibia1093">
+        <displayname>Tibia 10.93</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1093.zip</webpath>
+        <desc>Tibia client, protocol 10.93</desc>
+    </application>
+
+    <application name="tibia1090">
+        <displayname>Tibia 10.90</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1090.zip</webpath>
+        <desc>Tibia client, protocol 10.90</desc>
+    </application>
+
+    <application name="tibia1082">
+        <displayname>Tibia 10.82</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1082.zip</webpath>
+        <desc>Tibia client, protocol 10.82</desc>
+    </application>
+
+    <application name="tibia1080">
+        <displayname>Tibia 10.80</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1080.zip</webpath>
+        <desc>Tibia client, protocol 10.80</desc>
+    </application>
+
+    <application name="tibia1077">
+        <displayname>Tibia 10.77</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1077.zip</webpath>
+        <desc>Tibia client, protocol 10.77</desc>
+    </application>
+
+    <application name="tibia1076">
+        <displayname>Tibia 10.76</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1076.zip</webpath>
+        <desc>Tibia client, protocol 10.76</desc>
+    </application>
+
+    <application name="tibia1075">
+        <displayname>Tibia 10.75</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1075.zip</webpath>
+        <desc>Tibia client, protocol 10.75</desc>
+    </application>
+
+    <application name="tibia1060">
+        <displayname>Tibia 10.60</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1060.zip</webpath>
+        <desc>Tibia client, protocol 10.60</desc>
+    </application>
+
+    <application name="tibia1059">
+        <displayname>Tibia 10.59</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1059.zip</webpath>
+        <desc>Tibia client, protocol 10.59</desc>
+    </application>
+
+    <application name="tibia1054">
+        <displayname>Tibia 10.54</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1054.zip</webpath>
+        <desc>Tibia client, protocol 10.54</desc>
+    </application>
+
+    <application name="tibia1050">
+        <displayname>Tibia 10.50</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1050.zip</webpath>
+        <desc>Tibia client, protocol 10.50</desc>
+    </application>
+
+    <application name="tibia1041">
+        <displayname>Tibia 10.41</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1041.zip</webpath>
+        <desc>Tibia client, protocol 10.41</desc>
+    </application>
+
+    <application name="tibia1039">
+        <displayname>Tibia 10.39</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1039.zip</webpath>
+        <desc>Tibia client, protocol 10.39</desc>
+    </application>
+
+    <application name="tibia1037">
+        <displayname>Tibia 10.37</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1037.zip</webpath>
+        <desc>Tibia client, protocol 10.37</desc>
+    </application>
+
+    <application name="tibia1035">
+        <displayname>Tibia 10.35</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1035.zip</webpath>
+        <desc>Tibia client, protocol 10.35</desc>
+    </application>
+
+    <application name="tibia1022">
+        <displayname>Tibia 10.22</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1022.zip</webpath>
+        <desc>Tibia client, protocol 10.22</desc>
+    </application>
+
+    <application name="tibia1020">
+        <displayname>Tibia 10.20</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1020.zip</webpath>
+        <desc>Tibia client, protocol 10.20</desc>
+    </application>
+
+    <application name="tibia1010">
+        <displayname>Tibia 10.10</displayname>
+        <webpath>http://download.otservlist.org/client/tibia1010.zip</webpath>
+        <desc>Tibia client, protocol 10.10</desc>
+    </application>
+
+    <application name="tibia981">
+        <displayname>Tibia 9.81</displayname>
+        <webpath>http://download.otservlist.org/client/tibia981.zip</webpath>
+        <desc>Tibia client, protocol 9.81</desc>
+    </application>
+
+    <application name="tibia971">
+        <displayname>Tibia 9.71</displayname>
+        <webpath>http://download.otservlist.org/client/tibia971.zip</webpath>
+        <desc>Tibia client, protocol 9.71</desc>
+    </application>
+
+    <application name="tibia97">
+        <displayname>Tibia 9.7</displayname>
+        <webpath>http://download.otservlist.org/client/tibia97.zip</webpath>
+        <desc>Tibia client, protocol 9.7</desc>
+    </application>
+
+    <application name="tibia942">
+        <displayname>Tibia 9.42</displayname>
+        <webpath>http://download.otservlist.org/client/tibia942.zip</webpath>
+        <desc>Tibia client, protocol 9.42</desc>
+    </application>
+
+    <application name="tibia941">
+        <displayname>Tibia 9.41</displayname>
+        <webpath>http://download.otservlist.org/client/tibia941.zip</webpath>
+        <desc>Tibia client, protocol 9.41</desc>
+    </application>
+
+    <application name="tibia94">
+        <displayname>Tibia 9.4</displayname>
+        <webpath>http://download.otservlist.org/client/tibia94.zip</webpath>
+        <desc>Tibia client, protocol 9.4</desc>
+    </application>
+
+    <application name="tibia931">
+        <displayname>Tibia 9.31</displayname>
+        <webpath>http://download.otservlist.org/client/tibia931.zip</webpath>
+        <desc>Tibia client, protocol 9.31</desc>
+    </application>
+
+    <application name="tibia92">
+        <displayname>Tibia 9.2</displayname>
+        <webpath>http://download.otservlist.org/client/tibia92.zip</webpath>
+        <desc>Tibia client, protocol 9.2</desc>
+    </application>
+
+    <application name="tibia91">
+        <displayname>Tibia 9.1</displayname>
+        <webpath>http://download.otservlist.org/client/tibia91.zip</webpath>
+        <desc>Tibia client, protocol 9.1</desc>
+    </application>
+
+    <application name="tibia90">
+        <displayname>Tibia 9.0</displayname>
+        <webpath>http://download.otservlist.org/client/tibia90.zip</webpath>
+        <desc>Tibia client, protocol 9.0</desc>
+    </application>
+
+    <application name="tibia871">
+        <displayname>Tibia 8.71</displayname>
+        <webpath>http://download.otservlist.org/client/tibia871.zip</webpath>
+        <desc>Tibia client, protocol 8.71</desc>
+    </application>
+
+    <application name="tibia87">
+        <displayname>Tibia 8.7</displayname>
+        <webpath>http://download.otservlist.org/client/tibia87.zip</webpath>
+        <desc>Tibia client, protocol 8.7</desc>
+    </application>
+    
+    <application name="tibia86">
+        <displayname>Tibia 8.6</displayname>
+        <webpath>http://download.otservlist.org/client/tibia86s.zip</webpath>
+        <desc>Tibia client, protocol 8.6</desc>
+    </application>
+
+    <application name="tibia857">
+        <displayname>Tibia 8.57</displayname>
+        <webpath>http://download.otservlist.org/client/tibia857.zip</webpath>
+        <desc>Tibia client, protocol 8.57</desc>
+    </application>
+
+    <application name="tibia855">
+        <displayname>Tibia 8.55</displayname>
+        <webpath>http://download.otservlist.org/client/tibia855.zip</webpath>
+        <desc>Tibia client, protocol 8.55</desc>
+    </application>
+
+    <application name="tibia854">
+        <displayname>Tibia 8.54</displayname>
+        <webpath>http://download.otservlist.org/client/tibia854.zip</webpath>
+        <desc>Tibia client, protocol 8.54</desc>
+    </application>
+
+    <application name="tibia853">
+        <displayname>Tibia 8.53</displayname>
+        <webpath>http://download.otservlist.org/client/tibia853.zip</webpath>
+        <desc>Tibia client, protocol 8.53</desc>
+    </application>
+
+    <application name="tibia852">
+        <displayname>Tibia 8.52</displayname>
+        <webpath>http://download.otservlist.org/client/tibia852.zip</webpath>
+        <desc>Tibia client, protocol 8.52</desc>
+    </application>
+
+    <application name="tibia85">
+        <displayname>Tibia 8.5</displayname>
+        <webpath>http://download.otservlist.org/client/tibia85.zip</webpath>
+        <desc>Tibia client, protocol 8.5</desc>
+    </application>
+
+    <application name="tibia842">
+        <displayname>Tibia 8.42</displayname>
+        <webpath>http://download.otservlist.org/client/tibia842.zip</webpath>
+        <desc>Tibia client, protocol 8.42</desc>
+    </application>
+    
+    <application name="tibia841">
+        <displayname>Tibia 8.41</displayname>
+        <webpath>http://download.otservlist.org/client/tibia841.zip</webpath>
+        <desc>Tibia client, protocol 8.41</desc>
+    </application>
+
+    <application name="tibia84">
+        <displayname>Tibia 8.4</displayname>
+        <webpath>http://download.otservlist.org/client/tibia84.zip</webpath>
+        <desc>Tibia client, protocol 8.4</desc>
+    </application>
+
+    <application name="tibia831">
+        <displayname>Tibia 8.31</displayname>
+        <webpath>http://download.otservlist.org/client/tibia831.zip</webpath>
+        <desc>Tibia client, protocol 8.31</desc>
+    </application>
+
+    <application name="tibia822">
+        <displayname>Tibia 8.22</displayname>
+        <webpath>http://download.otservlist.org/client/tibia822.zip</webpath>
+        <desc>Tibia client, protocol 8.22</desc>
+    </application>
+    
+    <application name="tibia821">
+        <displayname>Tibia 8.21</displayname>
+        <webpath>http://download.otservlist.org/client/tibia821.zip</webpath>
+        <desc>Tibia client, protocol 8.21</desc>
+    </application>
+    
+    <application name="tibia82">
+        <displayname>Tibia 8.20</displayname>
+        <webpath>http://download.otservlist.org/client/tibia82.zip</webpath>
+        <desc>Tibia client, protocol 8.20</desc>
+    </application>
+    
+    <application name="tibia811">
+        <displayname>Tibia 8.11</displayname>
+        <webpath>http://download.otservlist.org/client/tibia811.zip</webpath>
+        <desc>Tibia client, protocol 8.11</desc>
+    </application>
+    
+    <application name="tibia81">
+        <displayname>Tibia 8.10</displayname>
+        <webpath>http://download.otservlist.org/client/tibia81s.zip</webpath>
+        <desc>Tibia client, protocol 8.10</desc>
+    </application>
+    
+    <application name="tibia80">
+        <displayname>Tibia 8.0</displayname>
+        <webpath>http://download.otservlist.org/client/tibia80s.zip</webpath>
+        <desc>Tibia client, protocol 8.0</desc>
+    </application>
+    
+    <application name="tibia792">
+        <displayname>Tibia 7.92</displayname>
+        <webpath>http://download.otservlist.org/client/tibia792.zip</webpath>
+        <desc>Tibia client, protocol 7.92</desc>
+    </application>
+    
+    <application name="tibia79">
+        <displayname>Tibia 7.9</displayname>
+        <webpath>http://download.otservlist.org/client/tibia79.zip</webpath>
+        <desc>Tibia client, protocol 7.9</desc>
+    </application>
+    
+    <application name="tibia781">
+        <displayname>Tibia 7.81</displayname>
+        <webpath>http://download.otservlist.org/client/tibia781.zip</webpath>
+        <desc>Tibia client, protocol 7.81</desc>
+    </application>
+    
+    <application name="tibia78">
+        <displayname>Tibia 7.8</displayname>
+        <webpath>http://download.otservlist.org/client/tibia78.zip</webpath>
+        <desc>Tibia client, protocol 7.8</desc>
+    </application>
+
+    <application name="tibia77">
+        <displayname>Tibia 7.7</displayname>
+        <webpath>http://download.otservlist.org/client/tibia77.zip</webpath>
+        <desc>Tibia client, protocol 7.7</desc>
+    </application>
+
+    <application name="tibia76">
+        <displayname>Tibia 7.6</displayname>
+        <webpath>http://download.otservlist.org/client/tibia76.zip</webpath>
+        <desc>Tibia client, protocol 7.6</desc>
+    </application>
+    
+    <application name="tibia755">
+        <displayname>Tibia 7.55</displayname>
+        <webpath>http://download.otservlist.org/client/tibia755.zip</webpath>
+        <desc>Tibia client, protocol 7.55</desc>
+    </application>
+    
+    <application name="tibia74">
+        <displayname>Tibia 7.4</displayname>
+        <webpath>http://download.otservlist.org/client/tibia74.zip</webpath>
+        <desc>Tibia client, protocol 7.4</desc>
+    </application>
+    
+    <application name="tibia711">
+        <displayname>Tibia 7.11</displayname>
+        <webpath>http://download.otservlist.org/client/tibia711.zip</webpath>
+        <desc>Tibia client, protocol 7.11</desc>
+    </application>
+
+    <application name="tibia71">
+        <displayname>Tibia 7.1</displayname>
+        <webpath>http://download.otservlist.org/client/tibia71.zip</webpath>
+        <desc>Tibia client, protocol 7.1</desc>
+    </application>
+</apps>
